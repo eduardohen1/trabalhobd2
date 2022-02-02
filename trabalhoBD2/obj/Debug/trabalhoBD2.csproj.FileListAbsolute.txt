@@ -30,7 +30,6 @@ G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\System.Buffe
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\System.Memory.xml
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\System.Numerics.Vectors.xml
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.AssemblyReference.cache
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.SuggestedBindingRedirects.cache
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Form1.resources
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.Properties.Resources.resources
@@ -39,3 +38,4 @@ G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.CopyComplete
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.exe
 G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.pdb
+G:\Desenvolvimento\C#\trabalhoBD2\trabalhoBD2\trabalhoBD2\obj\Debug\trabalhoBD2.csproj.AssemblyReference.cache

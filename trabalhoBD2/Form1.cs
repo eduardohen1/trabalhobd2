@@ -286,7 +286,7 @@ namespace trabalhoBD2
                 {
                     if (conexaoBD.conectar())
                     {
-                        sql = "CALL proc_qteFuncionarios(0)";
+                        sql = "CALL proc_qteFuncionarios(3)";
                         comando = new MySqlCommand(sql, conexaoBD.conexao);
                         dr = comando.ExecuteReader();
                         if (dr.HasRows)
@@ -327,7 +327,7 @@ namespace trabalhoBD2
                 {
                     if (conexaoBD.conectar())
                     {
-                        sql = "CALL proc_qteFuncionarios(1)";
+                        sql = "CALL proc_qteFuncionarios(0)";
                         comando = new MySqlCommand(sql, conexaoBD.conexao);
                         dr = comando.ExecuteReader();
                         if (dr.HasRows)
